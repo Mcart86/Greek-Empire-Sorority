@@ -6,14 +6,14 @@ DIR = "/home/claude/greek-empire-sorority"
 SORORITIES = [
     "Alpha Chi Omega","Alpha Delta Pi","Alpha Epsilon Phi","Alpha Gamma Delta",
     "Alpha Omicron Pi","Alpha Phi","Alpha Phi Gamma","Alpha Phi Omega","Alpha Psi Lambda",
-    "Alpha Sigma Alpha","Alpha Sigma Tau","Chi Omega","Delta Delta Delta","Delta Gamma",
-    "Delta Phi Epsilon","Delta Zeta","Gamma Phi Beta","Kappa Beta Gamma","Kappa Delta",
+    "Alpha Sigma Alpha","Alpha Sigma Tau","Chi Omega","Chi Upsilon Sigma","Delta Delta Delta","Delta Gamma",
+    "Delta Phi Epsilon","Delta Zeta","Gamma Phi Beta","Gamma Sigma Sigma","Kappa Beta Gamma","Kappa Delta",
     "Kappa Delta Chi","Kappa Kappa Gamma","Kappa Kappa Psi","Kappa Phi Lambda",
     "Lambda Phi Epsilon","Lambda Pi Upsilon","Omega Delta Phi","Omega Phi Alpha",
     "Omega Phi Chi","Phi Alpha Delta","Phi Beta Sigma","Phi Chi Theta","Phi Delta Epsilon",
     "Phi Iota Alpha","Phi Kappa Theta","Phi Mu","Phi Sigma Rho","Pi Beta Phi",
     "Pi Sigma Epsilon","Sigma Alpha Iota","Sigma Kappa","Sigma Lambda Beta",
-    "Sigma Lambda Gamma","Sigma Tau Delta","Zeta Tau Alpha",
+    "Sigma Lambda Gamma","Sigma Sigma Sigma","Sigma Tau Delta","Tau Beta Sigma","Zeta Tau Alpha",
 ]
 
 # PLACEHOLDER — swap in real per-org SwagFlo store URLs once provided.
