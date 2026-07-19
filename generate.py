@@ -11,9 +11,9 @@ SORORITIES = [
     "Kappa Delta Chi","Kappa Kappa Gamma","Kappa Kappa Psi","Kappa Phi Lambda",
     "Lambda Phi Epsilon","Lambda Pi Upsilon","Omega Delta Phi","Omega Phi Alpha",
     "Omega Phi Chi","Phi Alpha Delta","Phi Beta Sigma","Phi Chi Theta","Phi Delta Epsilon",
-    "Phi Iota Alpha","Phi Kappa Theta","Phi Mu","Phi Sigma Rho","Pi Beta Phi",
-    "Pi Sigma Epsilon","Sigma Alpha Iota","Sigma Kappa","Sigma Lambda Beta",
-    "Sigma Lambda Gamma","Sigma Sigma Sigma","Sigma Tau Delta","Tau Beta Sigma","Zeta Tau Alpha",
+    "Phi Iota Alpha","Phi Kappa Theta","Phi Mu","Phi Sigma Rho","Phi Sigma Sigma","Pi Beta Phi",
+    "Pi Sigma Epsilon","Sigma Alpha Iota","Sigma Gamma Rho","Sigma Kappa","Sigma Lambda Beta",
+    "Sigma Lambda Gamma","Sigma Sigma Sigma","Sigma Tau Delta","Tau Beta Sigma","Theta Phi Alpha","Zeta Tau Alpha",
 ]
 
 # PLACEHOLDER — swap in real per-org SwagFlo store URLs once provided.
