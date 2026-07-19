@@ -4,16 +4,16 @@ import json, urllib.parse
 DIR = "/home/claude/greek-empire-sorority"
 
 SORORITIES = [
-    "Alpha Chi Omega","Alpha Delta Pi","Alpha Epsilon Phi","Alpha Kappa Delta Phi",
-    "Alpha Omicron Pi","Alpha Phi","Alpha Sigma Alpha","Alpha Sigma Kappa","Alpha Sigma Tau",
-    "Alpha Xi Delta","Chi Omega","Chi Upsilon Sigma","Delta Delta Delta","Delta Gamma",
-    "Delta Kappa Delta","Delta Phi Epsilon","Delta Phi Lambda","Delta Zeta","Gamma Alpha Omega",
-    "Gamma Phi Beta","Gamma Rho Lambda","Gamma Sigma Sigma","Kappa Alpha Theta","Kappa Beta Gamma",
-    "Kappa Delta","Kappa Delta Chi","Kappa Kappa Gamma","Kappa Phi Lambda","Lambda Kappa Sigma",
-    "Lambda Pi Upsilon","Lambda Theta Alpha","Mu Sigma Upsilon","Omega Phi Alpha","Omega Phi Chi",
-    "Phi Sigma Sigma","Pi Beta Phi","Sigma Alpha","Sigma Alpha Iota","Sigma Delta Tau",
-    "Sigma Gamma Rho","Sigma Iota Alpha","Sigma Kappa","Sigma Lambda Gamma","Sigma Psi Zeta",
-    "Sigma Sigma Rho","Sigma Sigma Sigma","Theta Phi Alpha","Zeta Tau Alpha",
+    "Alpha Chi Omega","Alpha Delta Pi","Alpha Epsilon Phi","Alpha Gamma Delta",
+    "Alpha Omicron Pi","Alpha Phi","Alpha Phi Gamma","Alpha Phi Omega","Alpha Psi Lambda",
+    "Alpha Sigma Alpha","Alpha Sigma Tau","Chi Omega","Delta Delta Delta","Delta Gamma",
+    "Delta Phi Epsilon","Delta Zeta","Gamma Phi Beta","Kappa Beta Gamma","Kappa Delta",
+    "Kappa Delta Chi","Kappa Kappa Gamma","Kappa Kappa Psi","Kappa Phi Lambda",
+    "Lambda Phi Epsilon","Lambda Pi Upsilon","Omega Delta Phi","Omega Phi Alpha",
+    "Omega Phi Chi","Phi Alpha Delta","Phi Beta Sigma","Phi Chi Theta","Phi Delta Epsilon",
+    "Phi Iota Alpha","Phi Kappa Theta","Phi Mu","Phi Sigma Rho","Pi Beta Phi",
+    "Pi Sigma Epsilon","Sigma Alpha Iota","Sigma Kappa","Sigma Lambda Beta",
+    "Sigma Lambda Gamma","Sigma Tau Delta","Zeta Tau Alpha",
 ]
 
 # PLACEHOLDER — swap in real per-org SwagFlo store URLs once provided.
