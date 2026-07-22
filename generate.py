@@ -5,15 +5,20 @@ DIR = "/home/claude/greek-empire-sorority"
 
 SORORITIES = [
     "Alpha Chi Omega","Alpha Delta Pi","Alpha Epsilon Phi","Alpha Gamma Delta",
-    "Alpha Omicron Pi","Alpha Phi","Alpha Phi Gamma","Alpha Phi Omega","Alpha Psi Lambda",
-    "Alpha Sigma Alpha","Alpha Sigma Tau","Chi Omega","Chi Upsilon Sigma","Delta Delta Delta","Delta Gamma",
-    "Delta Phi Epsilon","Delta Zeta","Gamma Phi Beta","Gamma Sigma Sigma","Kappa Beta Gamma","Kappa Delta",
-    "Kappa Delta Chi","Kappa Kappa Gamma","Kappa Kappa Psi","Kappa Phi Lambda",
-    "Lambda Phi Epsilon","Lambda Pi Upsilon","Omega Delta Phi","Omega Phi Alpha",
-    "Omega Phi Chi","Phi Alpha Delta","Phi Beta Sigma","Phi Chi Theta","Phi Delta Epsilon",
-    "Phi Iota Alpha","Phi Kappa Theta","Phi Mu","Phi Sigma Rho","Phi Sigma Sigma","Pi Beta Phi",
-    "Pi Sigma Epsilon","Sigma Alpha Iota","Sigma Gamma Rho","Sigma Kappa","Sigma Lambda Beta",
-    "Sigma Lambda Gamma","Sigma Sigma Sigma","Sigma Tau Delta","Tau Beta Sigma","Theta Phi Alpha","Zeta Tau Alpha",
+    "Alpha Kappa Delta Phi","Alpha Omega Epsilon","Alpha Omicron Pi","Alpha Phi","Alpha Phi Gamma",
+    "Alpha Phi Omega","Alpha Psi Lambda","Alpha Sigma Alpha","Alpha Sigma Kappa","Alpha Sigma Tau",
+    "Alpha Xi Delta","Chi Omega","Chi Upsilon Sigma","Delta Delta Delta","Delta Gamma",
+    "Delta Kappa Delta","Delta Phi Epsilon","Delta Phi Lambda","Delta Psi Epsilon","Delta Zeta",
+    "Epsilon Sigma Alpha","Gamma Alpha Omega","Gamma Phi Beta","Gamma Rho Lambda",
+    "Gamma Sigma Sigma","Kappa Alpha Theta","Kappa Beta Gamma","Kappa Delta","Kappa Delta Chi",
+    "Kappa Kappa Gamma","Kappa Kappa Psi","Kappa Phi Lambda","Lambda Kappa Sigma",
+    "Lambda Phi Epsilon","Lambda Pi Upsilon","Lambda Theta Alpha","Mu Sigma Upsilon",
+    "Omega Delta Phi","Omega Phi Alpha","Omega Phi Chi","Phi Alpha Delta","Phi Beta Sigma",
+    "Phi Chi Theta","Phi Delta Epsilon","Phi Iota Alpha","Phi Kappa Theta","Phi Mu","Phi Sigma Rho",
+    "Phi Sigma Sigma","Pi Beta Phi","Pi Sigma Epsilon","Sigma Alpha","Sigma Alpha Iota",
+    "Sigma Delta Tau","Sigma Gamma Rho","Sigma Iota Alpha","Sigma Kappa","Sigma Lambda Beta",
+    "Sigma Lambda Gamma","Sigma Psi Zeta","Sigma Sigma Rho","Sigma Sigma Sigma","Sigma Tau Delta",
+    "Tau Beta Sigma","Theta Phi Alpha","Zeta Tau Alpha",
 ]
 
 # PLACEHOLDER — swap in real per-org SwagFlo store URLs once provided.
